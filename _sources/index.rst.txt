@@ -5,7 +5,8 @@
 
 Welcome to ZeroDave!
 ====================================
-**ZeroDave** (/zeer-oh deyv/) is a hub for projects, observations, and adventures. 
+**ZeroDave** (/zeer-oh deyv/) is a hub for projects, observations, and adventures.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
